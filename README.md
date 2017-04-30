@@ -11,6 +11,7 @@ Golang Beego框架源码教程
 * 课程7：beego 附件上传及展示处理。
 * 课程8：beego 多语言的实现
 * 课程9：Go http中间键的实现
+* 课程10：Go 实现简易的rpc通讯
 * 持续更新中。。。
 
 ## Language
