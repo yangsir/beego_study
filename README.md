@@ -12,7 +12,8 @@ Golang Beego框架源码教程
 * 课程8：beego 多语言的实现
 * 课程9：Go http中间键的实现
 * 课程10：Go 实现简易的rpc通讯
-* 持续更新中。。。
+* 课程11：Go 实现简易websocket
+* 完结
 
 ## Language
 golang
