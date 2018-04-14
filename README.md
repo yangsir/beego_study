@@ -20,7 +20,7 @@ golang
 
 ## Supporting the project
 > alipay
-![alipay](http://www.webyang.net/Public/images/zfbqrcode.png)
+![alipay](http://www.webyang.net/Public/index/img/zfbqrcode_new.png)
 > wechat
 ![wechat](http://www.webyang.net/Public/images/wxzf.jpg)
 
